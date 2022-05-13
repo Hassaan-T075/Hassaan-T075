@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi+there%2C+I+am+Hassaan+Tahir)](https://git.io/typing-svg)
 
-I'm a programming student from in Lahore, Pakistan.
+I'm a computer science student from Lahore, Pakistan.
 
 # Education
 - I am currently pursuing my Computer Sciences bachelors degree from <b>FAST NUCES</b> Lahore.
 
 # What Do I Do?
 
-- 🔭 I’m currently kick-starting my web development journey
+- 🔭 I’m currently kick-starting my professional app development journey from meeshoo reseller app at gianteyes.online
 
 - 🌱 I’m currently learning native web and mobile application development.
 
