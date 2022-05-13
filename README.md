@@ -7,9 +7,9 @@ I'm a computer science student from Lahore, Pakistan.
 
 # What Do I Do?
 
-- 🔭 I’m currently kick-starting my professional app development journey from meeshoo reseller app at [Getx](https://gianteyes.online)
+- 🔭 I’m currently kick-starting my professional application development journey from meeshoo reseller app at [Getx](https://gianteyes.online)
 
-- 🌱 I’m learning native web and mobile application development.
+- 🌱 I’m currently learning native web and mobile application development.
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Hassaan-T075)
 
