@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi+there%2C+I+am+Hassaan+Tahir)](https://git.io/typing-svg)
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 I'm a computer science student from Lahore, Pakistan.
 
