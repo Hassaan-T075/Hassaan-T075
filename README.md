@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hi+there%2C+I+am+Hassaan+Tahir)](https://git.io/typing-svg)
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Hassaan-T075)
 I'm a computer science student from Lahore, Pakistan.
 
 # Education
